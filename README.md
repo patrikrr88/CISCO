@@ -6,6 +6,6 @@
 - Výsledný rozsah: 10.73.0.0 / 21 (Maska: 255.255.248.0)
 
 ## Dokumentace
-1. Nastavení switche přes Laptop Terminal: ![[LAPTOP nastavování switche.png]]
+1. Nastavení switche přes Laptop Terminal: ![alt text](https://github.com/patrikrr88/CISCO/blob/main/LAPTOP%20nastavov%C3%A1n%C3%AD%20switche.png)
 2. PC1 ipconfig: ![[PC1 ipconfig.png]]
 3. Ping z PC1 na PC4: ![[PC1 ping PC4.png]]
